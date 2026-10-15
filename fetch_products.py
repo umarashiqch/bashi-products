@@ -73,8 +73,10 @@ def pick_800px_url(image):
 def download_images(slug, images):
     """Download this product's images (skipping ones already on disk) and
     return the list of local paths (relative to the repo root, forward
-    slashes) actually saved for it, plus the set of filenames now in use."""
+    slashes) actually saved for it, the matching alt text for each, and the
+    set of filenames now in use."""
     local_paths = []
+    alts = []
     filenames = set()
     for index, image in enumerate(images, start=1):
         url = pick_800px_url(image)
@@ -83,19 +85,20 @@ def download_images(slug, images):
         filenames.add(filename)
         dest = IMAGES_DIR / filename
         local_paths.append(f"images/{filename}")
+        alts.append(image.get("alt") or "")
         if dest.exists():
             continue
         req = urllib.request.Request(url, headers={"User-Agent": "bashi-products-sync"})
         with urllib.request.urlopen(req, timeout=30) as resp:
             dest.write_bytes(resp.read())
         print(f"Downloaded {filename}")
-    return local_paths, filenames
+    return local_paths, alts, filenames
 
 
 def simplify(product):
     slug = product["slug"]
     images = product.get("images", [])
-    local_images, filenames = download_images(slug, images)
+    local_images, image_alts, filenames = download_images(slug, images)
     return {
         "id": product["id"],
         "name": product["name"],
@@ -111,6 +114,7 @@ def simplify(product):
         "description": strip_html(product.get("description", "")),
         "short_description": strip_html(product.get("short_description", "")),
         "local_images": local_images,
+        "image_alts": image_alts,
     }, filenames
 
 

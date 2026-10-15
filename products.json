@@ -18,6 +18,9 @@
     "short_description": "A cushion-cut statement ring in aqua-to-cream ombre enamel with a pearl centre and gold-tone branch detailing plus star accents. A soft, standout piece for festive wear.",
     "local_images": [
       "images/aqua-enamel-ring-1.webp"
+    ],
+    "image_alts": [
+      "Aqua Enamel Ring - aqua enamel ring, gold-tone with aqua-cream enamel"
     ]
   },
   {
@@ -39,6 +42,9 @@
     "short_description": "A 2-piece set featuring a white blossom enamel pendant necklace and matching pearl stud earrings. A soft, ready-to-gift pairing for everyday or festive wear.",
     "local_images": [
       "images/blossom-jewelry-set-1.webp"
+    ],
+    "image_alts": [
+      "Blossom Jewelry Set - blossom jewelry set, gold-tone with teal and yellow enamel"
     ]
   },
   {
@@ -60,6 +66,9 @@
     "short_description": "A gold-tone bracelet layering a smooth bangle bar with a chain of dangling four-leaf clover charms. A pretty, everyday piece with a playful charm detail.",
     "local_images": [
       "images/clover-charm-bracelet-1.webp"
+    ],
+    "image_alts": [
+      "Clover Charm Bracelet - clover charm bracelet, gold-tone"
     ]
   },
   {
@@ -81,6 +90,9 @@
     "short_description": "A 2-piece set featuring a white blossom enamel pendant necklace on a cream-teal wash and matching pearl stud earrings. A soft, ready-to-gift pairing.",
     "local_images": [
       "images/cream-pearl-jewelry-set-1.webp"
+    ],
+    "image_alts": [
+      "Cream Pearl Jewelry Set - cream pearl jewelry set, gold-tone with cream and teal enamel"
     ]
   },
   {
@@ -104,6 +116,11 @@
       "images/crystal-jhumka-earrings-1.webp",
       "images/crystal-jhumka-earrings-2.webp",
       "images/crystal-jhumka-earrings-3.webp"
+    ],
+    "image_alts": [
+      "Crystal Jhumka Earrings - crystal jhumka earrings, antique gold-tone with a clear crystal top",
+      "Crystal Jhumka Earrings - antique gold-tone jhumka earrings with crystal top and purple bead fringe, worn",
+      "Crystal Jhumka Earrings - antique gold-tone jhumka earrings with crystal top and green bead fringe, worn"
     ]
   },
   {
@@ -124,6 +141,9 @@
     "short_description": "A delicate gold-tone chain accented with small polished bead stations. Light and minimal, it’s an easy everyday piece that layers effortlessly.",
     "local_images": [
       "images/dainty-gold-chain-necklace-1.webp"
+    ],
+    "image_alts": [
+      "Dainty Gold Chain Necklace - dainty gold chain necklace, gold-tone"
     ]
   },
   {
@@ -145,6 +165,9 @@
     "short_description": "A 2-piece set featuring a yellow daisy enamel pendant necklace on a red base and matching pearl stud earrings. A bright, ready-to-gift pairing for festive wear.",
     "local_images": [
       "images/daisy-pearl-jewelry-set-1.webp"
+    ],
+    "image_alts": [
+      "Daisy Pearl Jewelry Set - daisy pearl jewelry set, gold-tone with red and yellow enamel"
     ]
   },
   {
@@ -172,6 +195,15 @@
       "images/emerald-drop-earrings-5.jpeg",
       "images/emerald-drop-earrings-6.jpeg",
       "images/emerald-drop-earrings-7.jpeg"
+    ],
+    "image_alts": [
+      "Emerald Drop Earrings - emerald drop earrings, gold-tone setting",
+      "Emerald Drop Earrings - red drop earrings on card, gold-tone setting with red crystal and bead stud",
+      "Emerald Drop Earrings - pink drop earrings on card, gold-tone setting with pink crystal and bead stud",
+      "Emerald Drop Earrings - black drop earrings on card, gold-tone setting with black crystal and bead stud",
+      "Emerald Drop Earrings - blue drop earrings on card, gold-tone setting with blue crystal and bead stud",
+      "Emerald Drop Earrings - clear crystal drop earrings in gift box, gold-tone setting with pearl stud",
+      "Emerald Drop Earrings - green crystal drop earrings in gift box, gold-tone setting with pearl stud"
     ]
   },
   {
@@ -193,6 +225,9 @@
     "short_description": "A pendant necklace featuring an emerald-cut, emerald-toned crystal in a gold-tone bezel on a fine beaded chain. A striking pop of colour presented ready for gifting.",
     "local_images": [
       "images/emerald-pendant-necklace-1.webp"
+    ],
+    "image_alts": [
+      "Emerald Pendant Necklace - emerald pendant necklace, gold-tone"
     ]
   },
   {
@@ -214,6 +249,9 @@
     "short_description": "A rectangular statement ring in teal and cream enamel with a single flower and pearl centre. Colourful and detailed, it makes an easy statement for festive or evening wear.",
     "local_images": [
       "images/floral-enamel-ring-1.webp"
+    ],
+    "image_alts": [
+      "Floral Enamel Ring - floral enamel ring, gold-tone with teal and cream enamel"
     ]
   },
   {
@@ -235,6 +273,9 @@
     "short_description": "Gold-tone flower stud earrings with a cat’s-eye finish and a small crystal leaf accent. A pretty, wearable pair for everyday or festive styling.",
     "local_images": [
       "images/flower-stud-earrings-1.webp"
+    ],
+    "image_alts": [
+      "Flower Stud Earrings - flower stud earrings, gold-tone with cat's-eye stone petals"
     ]
   },
   {
@@ -256,6 +297,9 @@
     "short_description": "A minimalist necklace featuring a smooth curved gold-tone bar on a fine chain. Understated and easy to layer, it’s a versatile everyday essential.",
     "local_images": [
       "images/gold-bar-necklace-1.webp"
+    ],
+    "image_alts": [
+      "Gold Bar Necklace - gold bar necklace, gold-tone"
     ]
   },
   {
@@ -277,6 +321,9 @@
     "short_description": "A minimalist necklace featuring a single polished gold-tone bead on a fine snake chain. Clean and versatile, it’s an easy everyday essential.",
     "local_images": [
       "images/gold-bead-necklace-1.webp"
+    ],
+    "image_alts": [
+      "Gold Bead Necklace - gold bead necklace, gold-tone"
     ]
   },
   {
@@ -298,6 +345,9 @@
     "short_description": "A delicate gold-tone chain bracelet with alternating clover-shaped charms, including a black-and-white mother-of-pearl style station. A minimal everyday piece.",
     "local_images": [
       "images/gold-clover-bracelet-1.webp"
+    ],
+    "image_alts": [
+      "Gold Clover Bracelet - gold clover bracelet, gold-tone"
     ]
   },
   {
@@ -319,6 +369,9 @@
     "short_description": "A delicate gold-tone necklace featuring four dangling heart charms spaced along a fine chain. A romantic, understated piece for everyday wear or gifting.",
     "local_images": [
       "images/gold-heart-charm-necklace-1.webp"
+    ],
+    "image_alts": [
+      "Gold Heart Charm Necklace - gold heart charm necklace, gold-tone"
     ]
   },
   {
@@ -341,6 +394,10 @@
     "local_images": [
       "images/gold-jhumka-earrings-1.webp",
       "images/gold-jhumka-earrings-2.jpeg"
+    ],
+    "image_alts": [
+      "Gold Jhumka Earrings - gold jhumka earrings, antique gold-tone",
+      "Gold Jhumka Earrings - silver-tone jhumka earrings with floral cutwork and bead fringe"
     ]
   },
   {
@@ -362,6 +419,9 @@
     "short_description": "A rigid gold-tone bangle featuring a clover cutout, sunburst medallion and pave crystal-set segment. A structured statement piece for festive or everyday wear.",
     "local_images": [
       "images/gold-medallion-bangle-1.webp"
+    ],
+    "image_alts": [
+      "Gold Medallion Bangle - gold medallion bangle, gold-tone"
     ]
   },
   {
@@ -383,6 +443,9 @@
     "short_description": "Small round gold-tone stud earrings with a white pearl centre. A simple, versatile pair for everyday wear or layering with other earrings.",
     "local_images": [
       "images/gold-pearl-stud-earrings-1.webp"
+    ],
+    "image_alts": [
+      "Gold Pearl Stud Earrings - gold pearl stud earrings, gold-tone"
     ]
   },
   {
@@ -404,6 +467,10 @@
     "local_images": [
       "images/gold-rope-chain-1.webp",
       "images/gold-rope-chain-2.jpeg"
+    ],
+    "image_alts": [
+      "Gold Rope Chain - gold rope chain, gold-tone",
+      "Gold Rope Chain - gold-tone rope chain necklace on BASHI Jewelry card"
     ]
   },
   {
@@ -425,6 +492,9 @@
     "short_description": "A 2-piece set featuring a golden daisy enamel pendant necklace on a red base and matching pearl stud earrings. A bright, ready-to-gift pairing for festive wear.",
     "local_images": [
       "images/golden-daisy-jewelry-set-1.webp"
+    ],
+    "image_alts": [
+      "Golden Daisy Jewelry Set - golden daisy jewelry set, gold-tone with red enamel"
     ]
   },
   {
@@ -446,6 +516,9 @@
     "short_description": "A 2-piece set featuring a lilac enamel flower pendant necklace and matching pearl stud earrings. A pretty, ready-to-gift pairing for everyday or festive wear.",
     "local_images": [
       "images/lilac-jewelry-set-1.webp"
+    ],
+    "image_alts": [
+      "Lilac Jewelry Set - lilac jewelry set, gold-tone with lilac mother-of-pearl finish"
     ]
   },
   {
@@ -467,6 +540,9 @@
     "short_description": "A round pendant necklace with a mother-of-pearl style disc in a black-and-gold bezel, on a fine snake chain with a heart charm extender. Simple and elegant for everyday wear.",
     "local_images": [
       "images/mother-of-pearl-necklace-1.webp"
+    ],
+    "image_alts": [
+      "Mother of Pearl Necklace - mother of pearl necklace, gold-tone with black trim"
     ]
   },
   {
@@ -488,6 +564,9 @@
     "short_description": "",
     "local_images": [
       "images/oval-pearl-rose-ring-1.webp"
+    ],
+    "image_alts": [
+      "Oval Pearl Rose Ring - oval pearl rose ring, gold-tone with cream and teal enamel"
     ]
   },
   {
@@ -509,6 +588,9 @@
     "short_description": "A twisted gold-tone cable bangle with a pave crystal medallion charm and smooth ball accent. A structured statement piece for festive or everyday wear.",
     "local_images": [
       "images/pave-medallion-bangle-1.webp"
+    ],
+    "image_alts": [
+      "Pave Medallion Bangle - pave medallion bangle, gold-tone"
     ]
   },
   {
@@ -532,6 +614,11 @@
       "images/pearl-blossom-ring-1.webp",
       "images/pearl-blossom-ring-2.webp",
       "images/pearl-blossom-ring-3.webp"
+    ],
+    "image_alts": [
+      "Pearl Blossom Ring - pearl blossom ring, gold-tone with green enamel",
+      "Pearl Blossom Ring - gold-tone ring with green enamel and pearl flower detail, worn",
+      "Pearl Blossom Ring - gold-tone ring with green enamel and pearl flower detail, close-up worn"
     ]
   },
   {
@@ -553,6 +640,9 @@
     "short_description": "",
     "local_images": [
       "images/pearl-cluster-ring-1.webp"
+    ],
+    "image_alts": [
+      "Pearl Cluster Ring - pearl cluster ring, gold-tone with teal and cream enamel"
     ]
   },
   {
@@ -574,6 +664,9 @@
     "short_description": "Wing-shaped gold-tone stud earrings with a pearl centre and a dangling pearl teardrop below. A pretty, versatile pair for everyday or festive wear.",
     "local_images": [
       "images/pearl-drop-earrings-1.webp"
+    ],
+    "image_alts": [
+      "Pearl Drop Earrings - pearl drop earrings, gold-tone"
     ]
   },
   {
@@ -595,6 +688,9 @@
     "short_description": "An oval statement ring in soft mint enamel, set with two baroque pearls and a hand-detailed gold-tone floral branch. A pretty, colourful piece for festive or everyday wear.",
     "local_images": [
       "images/pearl-enamel-ring-1.webp"
+    ],
+    "image_alts": [
+      "Pearl Enamel Ring - pearl enamel ring, gold-tone with mint enamel"
     ]
   },
   {
@@ -616,6 +712,9 @@
     "short_description": "A round statement ring with a cream and green enamel flower design, accented with baroque pearls and fine gold-tone leaf detailing. A pretty, garden-inspired piece.",
     "local_images": [
       "images/pearl-garden-ring-1.webp"
+    ],
+    "image_alts": [
+      "Pearl Garden Ring - pearl garden ring, gold-tone with green enamel"
     ]
   },
   {
@@ -637,6 +736,9 @@
     "short_description": "A round ring featuring a pink enamel flower, a sparkling white blossom and a pearl accent on a cream and teal enamel base. A playful, colourful statement piece.",
     "local_images": [
       "images/pink-blossom-ring-1.webp"
+    ],
+    "image_alts": [
+      "Pink Blossom Ring - pink blossom ring, gold-tone with pink and cream enamel"
     ]
   },
   {
@@ -659,6 +761,10 @@
     "local_images": [
       "images/pink-floral-ring-1.webp",
       "images/pink-floral-ring-2.jpeg"
+    ],
+    "image_alts": [
+      "Pink Floral Ring - pink floral ring, gold-tone with pink enamel",
+      "Pink Floral Ring - gold-tone ring with teal enamel petal and pink pearl accent"
     ]
   },
   {
@@ -681,6 +787,10 @@
     "local_images": [
       "images/pink-lotus-ring-1.webp",
       "images/pink-lotus-ring-2.webp"
+    ],
+    "image_alts": [
+      "Pink Lotus Ring - pink lotus ring, gold-tone with pink and blue enamel",
+      "Pink Lotus Ring - round gold-tone enamel ring with pink lotus flower and pearl accent"
     ]
   },
   {
@@ -702,6 +812,9 @@
     "short_description": "A 2-piece set featuring a pink blossom enamel pendant necklace and matching pearl stud earrings. A soft, ready-to-gift pairing for everyday or festive wear.",
     "local_images": [
       "images/pink-pearl-jewelry-set-1.webp"
+    ],
+    "image_alts": [
+      "Pink Pearl Jewelry Set - pink pearl jewelry set, gold-tone with pink and yellow enamel"
     ]
   },
   {
@@ -729,6 +842,15 @@
       "images/purple-bead-jhumka-earrings-5.jpeg",
       "images/purple-bead-jhumka-earrings-6.jpeg",
       "images/purple-bead-jhumka-earrings-7.jpeg"
+    ],
+    "image_alts": [
+      "Purple Bead Jhumka Earrings - purple bead jhumka earrings, silver-tone (oxidised)",
+      "Purple Bead Jhumka Earrings - multicolour bead variant on BASHI Jewelry card",
+      "Purple Bead Jhumka Earrings - pink bead variant on BASHI Jewelry card",
+      "Purple Bead Jhumka Earrings - black bead variant on BASHI Jewelry card",
+      "Purple Bead Jhumka Earrings - white pearl bead variant on BASHI Jewelry card",
+      "Purple Bead Jhumka Earrings - red bead variant on BASHI Jewelry card",
+      "Purple Bead Jhumka Earrings - green bead variant on BASHI Jewelry card"
     ]
   },
   {
@@ -750,6 +872,9 @@
     "short_description": "A 2-piece set featuring a red blossom enamel pendant necklace on a teal base and matching pearl stud earrings. A rich, ready-to-gift pairing for festive occasions.",
     "local_images": [
       "images/red-blossom-jewelry-set-1.webp"
+    ],
+    "image_alts": [
+      "Red Blossom Jewelry Set - red blossom jewelry set, gold-tone with red and teal enamel"
     ]
   },
   {
@@ -771,6 +896,9 @@
     "short_description": "A pendant necklace featuring a faceted red crystal in a gold-tone bezel on a fine chain. Simple yet striking, it adds a pop of colour to evening or festive looks.",
     "local_images": [
       "images/red-crystal-pendant-necklace-1.webp"
+    ],
+    "image_alts": [
+      "Red Crystal Pendant Necklace - red crystal pendant necklace, gold-tone"
     ]
   },
   {
@@ -792,6 +920,9 @@
     "short_description": "Oval stud earrings in teal enamel with a rose-gold tone flower and pearl accent. A pretty, compact pair for everyday or festive wear.",
     "local_images": [
       "images/rose-enamel-stud-earrings-1.webp"
+    ],
+    "image_alts": [
+      "Rose Enamel Stud Earrings - rose enamel stud earrings, rose-gold tone with teal enamel"
     ]
   },
   {
@@ -814,6 +945,10 @@
     "local_images": [
       "images/rose-gold-tennis-bracelet-1.webp",
       "images/rose-gold-tennis-bracelet-2.webp"
+    ],
+    "image_alts": [
+      "Rose Gold Tennis Bracelet - rose gold tennis bracelet, rose gold-tone",
+      "Rose Gold Tennis Bracelet - crystal-studded gold-tone tennis bracelet on presentation card"
     ]
   },
   {
@@ -835,6 +970,9 @@
     "short_description": "",
     "local_images": [
       "images/rose-pearl-jewelry-set-1.webp"
+    ],
+    "image_alts": [
+      "Rose Pearl Jewelry Set - rose pearl jewelry set, gold-tone with pink, yellow and teal enamel"
     ]
   },
   {
@@ -857,6 +995,10 @@
     "local_images": [
       "images/teal-enamel-ring-1.webp",
       "images/teal-enamel-ring-2.webp"
+    ],
+    "image_alts": [
+      "Teal Enamel Ring - teal enamel ring, gold-tone with teal enamel",
+      "Teal Enamel Ring - gold-tone ring with teal ombre enamel, pearl and star accents, in gift box"
     ]
   },
   {
@@ -878,6 +1020,9 @@
     "short_description": "",
     "local_images": [
       "images/teal-flower-ring-1.webp"
+    ],
+    "image_alts": [
+      "Teal Flower Ring - teal flower ring, gold-tone with teal and white enamel"
     ]
   },
   {
@@ -900,6 +1045,10 @@
     "local_images": [
       "images/tulip-enamel-ring-1.webp",
       "images/tulip-enamel-ring-2.webp"
+    ],
+    "image_alts": [
+      "Tulip Enamel Ring - tulip enamel ring, gold-tone with teal and cream enamel",
+      "Tulip Enamel Ring - gold-tone ring with teal enamel, pink tulip and pearl detail, collage"
     ]
   },
   {
@@ -912,7 +1061,7 @@
     "price": "549",
     "regular_price": "1400",
     "currency": "PKR",
-    "in_stock": true,
+    "in_stock": false,
     "categories": [
       "Rings",
       "Statement Rings"
@@ -921,6 +1070,9 @@
     "short_description": "A bold cushion-shaped statement ring finished in turquoise enamel with a single pearl and a delicate gold-tone branch motif. Eye-catching yet wearable, it adds a pop of colour to festive or everyday outfits.",
     "local_images": [
       "images/turquoise-enamel-ring-1.webp"
+    ],
+    "image_alts": [
+      "Turquoise Enamel Ring - turquoise enamel ring, gold-tone with turquoise enamel"
     ]
   },
   {
@@ -942,6 +1094,9 @@
     "short_description": "US English",
     "local_images": [
       "images/turquoise-pearl-ring-1.webp"
+    ],
+    "image_alts": [
+      "Turquoise Pearl Ring - turquoise pearl ring, gold-tone with turquoise enamel"
     ]
   },
   {
@@ -964,6 +1119,10 @@
     "local_images": [
       "images/white-heart-pendant-necklace-1.webp",
       "images/white-heart-pendant-necklace-2.jpeg"
+    ],
+    "image_alts": [
+      "White Heart Pendant Necklace - white heart pendant necklace, gold-tone",
+      "White Heart Pendant Necklace - black heart pendant variant on gift card"
     ]
   },
   {
@@ -985,6 +1144,9 @@
     "short_description": "A gold-tone woven cord bracelet with a round mother-of-pearl style medallion charm. A textured, everyday piece with a delicate bird motif detail.",
     "local_images": [
       "images/woven-charm-bracelet-1.webp"
+    ],
+    "image_alts": [
+      "Woven Charm Bracelet - woven charm bracelet, gold-tone"
     ]
   }
 ]
