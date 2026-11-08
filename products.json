@@ -9,7 +9,7 @@
     "price": "649",
     "regular_price": "1600",
     "currency": "PKR",
-    "in_stock": true,
+    "in_stock": false,
     "categories": [
       "Rings",
       "Statement Rings"
