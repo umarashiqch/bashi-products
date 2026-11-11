@@ -133,7 +133,7 @@
     "price": "899",
     "regular_price": "2000",
     "currency": "PKR",
-    "in_stock": true,
+    "in_stock": false,
     "categories": [
       "Jhumkas",
       "Earrings"
@@ -983,7 +983,7 @@
     "price": "599",
     "regular_price": "1500",
     "currency": "PKR",
-    "in_stock": true,
+    "in_stock": false,
     "categories": [
       "Earrings",
       "Jhumkas"
