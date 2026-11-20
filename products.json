@@ -147,9 +147,13 @@
       "images/crystal-jhumka-earrings-4.webp",
       "images/crystal-jhumka-earrings-5.webp",
       "images/crystal-jhumka-earrings-6.webp",
-      "images/crystal-jhumka-earrings-7.webp"
+      "images/crystal-jhumka-earrings-7.webp",
+      "images/crystal-jhumka-earrings-8.webp",
+      "images/crystal-jhumka-earrings-9.webp"
     ],
     "image_alts": [
+      "",
+      "",
       "",
       "",
       "",
@@ -642,9 +646,21 @@
     "short_description": "Traditional golden tone bead jhumka earrings featuring a detailed floral dome and colourful beaded fringe. Available in multiple bead colours, these artificial jhumkas are a lovely choice for festive outfits, parties and traditional wear. Cash on Delivery available across Pakistan.",
     "local_images": [
       "images/golden-bead-jhumka-earrings-1.jpeg",
-      "images/golden-bead-jhumka-earrings-2.jpeg"
+      "images/golden-bead-jhumka-earrings-2.jpeg",
+      "images/golden-bead-jhumka-earrings-3.webp",
+      "images/golden-bead-jhumka-earrings-4.webp",
+      "images/golden-bead-jhumka-earrings-5.webp",
+      "images/golden-bead-jhumka-earrings-6.webp",
+      "images/golden-bead-jhumka-earrings-7.webp",
+      "images/golden-bead-jhumka-earrings-8.webp"
     ],
     "image_alts": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       "",
       ""
     ]
@@ -1281,7 +1297,7 @@
     "price": "549",
     "regular_price": "1400",
     "currency": "PKR",
-    "in_stock": true,
+    "in_stock": false,
     "categories": [
       "Rings",
       "Statement Rings"
