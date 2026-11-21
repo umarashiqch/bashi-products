@@ -201,9 +201,9 @@
     "slug": "dainty-gold-chain-necklace",
     "sku": "BJ-M001",
     "permalink": "https://bashi.pk/product/dainty-gold-chain-necklace/",
-    "on_sale": false,
-    "price": "800",
-    "regular_price": "800",
+    "on_sale": true,
+    "price": "499",
+    "regular_price": "1000",
     "currency": "PKR",
     "in_stock": true,
     "categories": [
@@ -561,7 +561,7 @@
     "sku": "BJ-BG001",
     "permalink": "https://bashi.pk/product/gold-medallion-bangle/",
     "on_sale": true,
-    "price": "1349",
+    "price": "1099",
     "regular_price": "2000",
     "currency": "PKR",
     "in_stock": true,
@@ -575,7 +575,7 @@
       "images/gold-medallion-bangle-1.webp"
     ],
     "image_alts": [
-      "Gold Medallion Bangle - gold medallion bangle, gold-tone"
+      ""
     ]
   },
   {
@@ -585,7 +585,7 @@
     "sku": "BJ-E004",
     "permalink": "https://bashi.pk/product/gold-pearl-stud-earrings/",
     "on_sale": true,
-    "price": "649",
+    "price": "499",
     "regular_price": "1400",
     "currency": "PKR",
     "in_stock": true,
@@ -596,10 +596,12 @@
     "description": "The Gold Pearl Stud Earrings feature a compact, rounded gold-tone frame set with a single white pearl at the centre — a simple design built for everyday wear. Their small scale makes them comfortable for all-day use and easy to layer with hoops or a second stud in a multi-piercing look. As a classic, versatile pair, they suit nearly any outfit and make an easy everyday staple or gift. Key Details Type: Stud earrings Design: Round frame with pearl centre Finish: Gold-tone Stone detailing: Pearl centre Occasion: Everyday wear, layering, gifting A reliable everyday pair that works with any outfit. SKU: BJ-E004 Colour options: Single fixed finish (as shown), no colour variants Why You’ll Love It – Finished in gold-tone, designed to catch the eye without needing much extra styling. – Suited to everyday wear, layering, gifting, so it’s easy to know when to reach for it. – Part of our Studs collection , so it’s simple to find other pieces that pair well with it. It pairs well with our Gold Bead Necklace . – Ships from BASHI with Cash on Delivery available across Pakistan, so you pay when it arrives. Why You’ll Love the Gold Pearl Stud Earrings Wear them alone for a classic, everyday look, or layer them with a second stud or hoop if you have multiple piercings. Their small scale and simple pearl centre make them a reliable everyday staple or an easy gift. If you wear multiple piercings, keep any additional studs plain so this pair stays the focal point. For a single-piercing look, it works well entirely on its own. In short, the Gold Pearl Stud Earrings is a pair of earrings finished in gold-tone, designed for everyday wear, layering, gifting. It’s built to be worn, not just looked at, which is why it’s one of the pieces we keep coming back to. The design details noted above are the same ones to look for if you’re comparing this piece against similar styles elsewhere, so you know exactly what you’re getting. Materials & Care The Gold Pearl Stud Earrings is finished in gold-tone over a lightweight base, so standard costume-jewellery care applies – avoid water, perfume and swimming, and wipe gently with a soft, dry cloth after wear to help the finish stay bright for longer. If you’re curious how pearl jewellery like this is actually made, here’s a good overview . Delivery & Returns Cash on Delivery across Pakistan. Standard delivery costs Rs. 200 (free on orders above Rs. 1,500) and takes 3-5 business days. Earrings can’t be returned for hygiene reasons unless defective — see our Returns Policy and Shipping Info for details. Good to Know",
     "short_description": "Small round gold-tone stud earrings with a white pearl centre. A simple, versatile pair for everyday wear or layering with other earrings.",
     "local_images": [
-      "images/gold-pearl-stud-earrings-1.webp"
+      "images/gold-pearl-stud-earrings-1.jpeg",
+      "images/gold-pearl-stud-earrings-2.jpeg"
     ],
     "image_alts": [
-      "Gold Pearl Stud Earrings - gold pearl stud earrings, gold-tone"
+      "",
+      ""
     ]
   },
   {
@@ -609,7 +611,7 @@
     "sku": "BJ-C001",
     "permalink": "https://bashi.pk/product/gold-rope-chain/",
     "on_sale": true,
-    "price": "850",
+    "price": "499",
     "regular_price": "1500",
     "currency": "PKR",
     "in_stock": true,
@@ -1122,7 +1124,7 @@
     "sku": "BJ-B002",
     "permalink": "https://bashi.pk/product/rose-gold-tennis-bracelet/",
     "on_sale": true,
-    "price": "899",
+    "price": "499",
     "regular_price": "1850",
     "currency": "PKR",
     "in_stock": true,
@@ -1443,9 +1445,9 @@
     "slug": "woven-charm-bracelet",
     "sku": "BJ-B001",
     "permalink": "https://bashi.pk/product/woven-charm-bracelet/",
-    "on_sale": false,
-    "price": "999",
-    "regular_price": "999",
+    "on_sale": true,
+    "price": "599",
+    "regular_price": "1500",
     "currency": "PKR",
     "in_stock": true,
     "categories": [
@@ -1458,7 +1460,7 @@
       "images/woven-charm-bracelet-1.webp"
     ],
     "image_alts": [
-      "Woven Charm Bracelet - woven charm bracelet, gold-tone"
+      ""
     ]
   }
 ]
