@@ -1079,7 +1079,7 @@
     "price": "499",
     "regular_price": "2000",
     "currency": "PKR",
-    "in_stock": true,
+    "in_stock": false,
     "categories": [
       "Necklaces",
       "Pendant Necklaces"
